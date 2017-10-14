@@ -5,3 +5,4 @@ Solved few problems:
 3) BinarySearch - 10/10/2017
 4) ReformatPhoneNumbers - 10/14/2017
 5) PriorityBasedProductCodes - 10/14/2017
+6) ReverseLinkedList - 10/14/2017
